@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agricultural Demand and Supply Analysis</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <h1>Agricultural Demand & Supply Analysis</h1>
+    <p>Analyze and visualize demand and supply dynamics of agricultural products.</p>
+  </header>
+
+  <!-- Navigation Section -->
+  <nav>
+    <a href="#product-info">Product Info</a>
+    <a href="#historical-data">Historical Data</a>
+    <a href="#consumer-demand">Consumer Demand</a>
+    <a href="#supply-levels">Supply Levels</a>
+    <a href="#market-price">Market Price</a>
+    <a href="#analytics">Analytics Tools</a>
+  </nav>
+
+  <!-- Product Information Section -->
+  <section id="product-info">
+    <h2>Comprehensive Product Information</h2>
+    <div class="info-box">
+      <h3>Type</h3>
+      <p>Rice, Wheat, Corn, etc.</p>
+    </div>
+    <div class="info-box">
+      <h3>Variety</h3>
+      <p>Examples: Basmati, Arborio, Maize</p>
+    </div>
+    <div class="info-box">
+      <h3>Seasonality</h3>
+      <p>Spring, Summer, Winter</p>
+    </div>
+  </section>
+
+  <!-- Historical Production Data Section -->
+  <section id="historical-data">
+    <h2>Historical Production Data</h2>
+    <p>Yield, acreage, costs of production over the years.</p>
+    <!-- Placeholder for charts or tables -->
+  </section>
+
+  <!-- Consumer Demand Data Section -->
+  <section id="consumer-demand">
+    <h2>Consumer Demand Data</h2>
+    <p>Includes patterns, price elasticity, and preference analysis.</p>
+    <!-- Placeholder for charts or data visualization -->
+  </section>
+
+  <!-- Real-time Supply Levels Section -->
+  <section id="supply-levels">
+    <h2>Real-time Supply Levels</h2>
+    <p>Inventory, storage status, and logistics information.</p>
+  </section>
+
+  <!-- Market Price Data Section -->
+  <section id="market-price">
+    <h2>Market Price Data</h2>
+    <p>View historical and current market prices for agricultural products.</p>
+    <!-- Placeholder for charts or tables -->
+  </section>
+
+  <!-- Analytical Tools Section -->
+  <section id="analytics">
+    <h2>Analytical Tools</h2>
+    <p>Explore forecasting, scenario analysis, and dynamic charts.</p>
+    <!-- Placeholder for analytical tools -->
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2024 Agricultural Demand & Supply Analysis | All rights reserved.</p>
+  </footer>
+</body>
+</html>
